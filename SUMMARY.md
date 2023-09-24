@@ -38,3 +38,4 @@
 
 * [Examples](examples/README.md)
   * [Kick the player on connect](examples/kick-the-player-on-connect.md)
+  * [Change gamemode to creative command](examples/change-gamemode-to-creative-command.md)
