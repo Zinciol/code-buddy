@@ -2,8 +2,39 @@
 
 * [Welcome](README.md)
 
-## HTML
+## How-to's
 
-* [HTML Forms](html/html-forms.md)
-* [HTML Form Elements](html/html-form-elements.md)
-* [HTML Input Types](html/html-input-types.md)
+* [Make a command](how-tos/make-a-command.md)
+
+## Events
+
+* [On Connect](events/on-connect.md)
+
+## Conditions
+
+* [Page 2](conditions/page-2.md)
+
+## Actions
+
+* [Page 3](actions/page-3.md)
+
+## Expressions
+
+* [Page 4](expressions/page-4.md)
+
+## Types
+
+* [Page 5](types/page-5.md)
+
+## Structures
+
+* [Page 6](structures/page-6.md)
+
+## Functions
+
+* [Page 7](functions/page-7.md)
+
+***
+
+* [Examples](examples/README.md)
+  * [Kick any player on connect](examples/kick-any-player-on-connect.md)
