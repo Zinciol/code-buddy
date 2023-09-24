@@ -1,7 +1,5 @@
-# Welcome!
+# Welcome
 
-Hello there,
+On this site you can learn everything about Skript.
 
-In this GitBook space you can find help on all to do with code. You can search for something particular or view the pages on the left.
-
-Happy coding!  - Zinciol
+**Happy Skripting!**
