@@ -37,4 +37,4 @@
 ***
 
 * [Examples](examples/README.md)
-  * [Kick any player on connect](examples/kick-any-player-on-connect.md)
+  * [Kick the player on connect](examples/kick-the-player-on-connect.md)
